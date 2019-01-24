@@ -1,0 +1,4 @@
+[submodule "BirthLifeAndDeathOfAClass"]
+	path = BirthLifeAndDeathOfAClass
+	url = https://github.com/simonis/BirthLifeAndDeathOfAClass
+	branch = jProfessionals2019
